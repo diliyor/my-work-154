@@ -1,0 +1,15 @@
+.q1 {
+    font-weight: bold;
+}
+.q2 {
+    text-decoration-line: overline;
+}
+.q3 {
+    text-decoration-line: line-through;
+}
+.q4 {
+    text-decoration-line: underline;
+}
+.q5 {
+    text-decoration-line: overline underline;
+}
